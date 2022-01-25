@@ -18,7 +18,7 @@
 - TF-IDF scores calculated.
 - Naive Bayes, KNN and Rocchio Classifers trained on this data.
 - Classification metrics analysed to determine the best classifier.
-- 
+
 ## **Latent Semantic Indexing**
 - 5 sentences were chosen and tokenized.
 - A tf-idf scores matrix was formulated
